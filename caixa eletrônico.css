@@ -1,0 +1,29 @@
+.imgatm{
+    width: 250px;
+    height: 250px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 550px;
+}
+
+.form{
+    color: darkslategray;
+    border: 1 px black;
+    background-color: lightgray;
+    padding: 10px;
+    height: 250px;
+    border-radius: 10px;
+
+}
+.caixa{
+    font-size:40px;
+    height:-10px;
+    display: flex;
+    justify-content: center;
+
+}
+
